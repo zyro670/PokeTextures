@@ -1,5 +1,47 @@
 [
   {
+    "Species":"Sandslash","Artist":533629547372085268,"Form":"1",
+  },
+  {
+    "Species":"Pecharunt","Artist":102256167362772992,"Form":"0",
+  },
+    {
+    "Species":"Spiritomb","Artist":102256167362772992,"Form":"0",
+  },
+  {
+    "Species":"Scatterbug","Artist":533629547372085268,"Form":"0",
+  },
+  {
+    "Species":"Spewpa","Artist":533629547372085268,"Form":"0",
+  },
+  {
+    "Species":"Alcremie","Artist":102256167362772992,"Form":"0",
+  },
+  {
+    "Species":"Alcremie","Artist":102256167362772992,"Form":"1",
+  },
+  {
+    "Species":"Alcremie","Artist":102256167362772992,"Form":"2",
+  },
+  {
+    "Species":"Alcremie","Artist":102256167362772992,"Form":"3",
+  },
+  {
+    "Species":"Alcremie","Artist":102256167362772992,"Form":"4",
+  },
+  {
+    "Species":"Alcremie","Artist":102256167362772992,"Form":"5",
+  },
+  {
+    "Species":"Alcremie","Artist":102256167362772992,"Form":"6",
+  },
+  {
+    "Species":"Slowpoke","Artist":330790076072198144,"Form":"1",
+  },
+  {
+    "Species":"Oinkologne","Artist":533629547372085268,"Form":"1",
+  },
+  {
     "Species":"Swadloon","Artist":102256167362772992,"Form":"0",
   },
   {
@@ -1113,7 +1155,7 @@
     "Species":"Cramorant","Artist":269926026677583872,"Form":"0",
   },
   {
-    "Species":"Arrokkuda","Artist":518531639454990336,"Form":"0",
+    "Species":"Arrokuda","Artist":518531639454990336,"Form":"0",
   },
   {
     "Species":"Barraskewda","Artist":518531639454990336,"Form":"0",
